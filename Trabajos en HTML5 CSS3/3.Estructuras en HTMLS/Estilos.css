@@ -1,0 +1,20 @@
+body{
+    background-color: cornflowerblue;
+    /*este es un comentario*/
+    font-family: Arial, Helvetica, sans-serif,"Trebuchet MS",Verdana, sans-serif;
+}
+
+h1{
+    color:crimson;
+}
+
+h1,h2{
+    text-align:center;
+}
+
+p{
+    color:beige;
+    /*aqui controlamos el tamaño de la letra*/
+    font-size: 15 px;
+
+}
